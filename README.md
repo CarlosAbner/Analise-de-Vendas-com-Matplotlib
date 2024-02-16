@@ -34,5 +34,5 @@ _O ano de 2020 para uma grande empresa que vende diversos tipos de produtos, mas
 - Quais os paises em que a empresa possui lojas
 
 
-**imagem dos graficos disponiveis dentro da pasta assets**
+**imagens dos graficos disponiveis dentro da pasta assets**
 
